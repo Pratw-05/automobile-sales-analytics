@@ -12,3 +12,4 @@ Provided an attractive, gradient background for improved aesthetics and readabil
 
 Ensured all major product categories are included, facilitating deep dives into sales and profit performance.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f92fb17e-7dd2-43e3-8171-9e7d08420eff" />
